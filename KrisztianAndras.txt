@@ -1,0 +1,4 @@
+git init
+git config --global user.name "KrisztianAndras"
+git config --global user.email "krisztianandras@szikszi-ozd.hu"
+git add .
